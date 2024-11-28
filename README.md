@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/9e33f2a4-e489-4643-ab22-81960a5dfa84)
 # **Personal Expense Tracker**
 
 A comprehensive **C-based Personal Expense Tracker** that helps you efficiently manage your finances by tracking monthly expenses, comparing them against a set budget, and providing detailed insights. This project emphasizes simplicity, accuracy, and clarity in financial management.
