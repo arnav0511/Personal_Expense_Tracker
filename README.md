@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/9e33f2a4-e489-4643-ab22-81960a5dfa84)
 # **Personal Expense Tracker**
 
 A comprehensive **C-based Personal Expense Tracker** that helps you efficiently manage your finances by tracking monthly expenses, comparing them against a set budget, and providing detailed insights. This project emphasizes simplicity, accuracy, and clarity in financial management.
@@ -92,27 +92,37 @@ A comprehensive **C-based Personal Expense Tracker** that helps you efficiently 
 
 ## **Screenshots**
 
-### **Input Example**:
-```
-Enter expense details (Date [DD-MM-YYYY], Description, Amount):
-15-11-2024 | Coffee | 150.00
-```
+### **Main Menu**:
+![image](https://github.com/user-attachments/assets/39f2bce6-0da3-452e-8ab8-adadafb2ae7a)
 
-### **Output Example**:
-```
-Month-Year     Total Expenses     Budget    Status
-----------------------------------------------------
-11-2024        ₹ 5000.00          ₹ 4500.00 OVER BUDGET
-10-2024        ₹ 4000.00          ₹ 4500.00 UNDER BUDGET
-```
 
----
+### **Setting a monthly budget**:
+![image](https://github.com/user-attachments/assets/81a5f485-90cf-49f1-84b6-ad399880c65b)
 
-## **Roadmap**
 
-- [ ] Add data visualization (e.g., pie charts for category-wise spending).
-- [ ] Integrate automated reports export to Excel/CSV format.
-- [ ] Add password protection for personal data.
+### **Adding Expenses**:
+![image](https://github.com/user-attachments/assets/965d3f08-03a3-42e3-bef8-e03fe39b61b4)
+
+
+### **Viewing Expenses**:
+![image](https://github.com/user-attachments/assets/7bd6cf7f-9ed4-4c12-b142-8cf18950b8c5)
+
+
+### **Viewing Monthly Summary**:
+![image](https://github.com/user-attachments/assets/34c5a5cb-8f6a-41cf-8574-3ab9f69758fc)
+
+
+### **Deleting an Expense**:
+![image](https://github.com/user-attachments/assets/349d32dc-4630-42db-985d-ed7150e99b48)
+![image](https://github.com/user-attachments/assets/5a6acffa-0370-4cf8-9d2a-ec2c352f2221)
+
+
+### **Statistics and insight**:
+![image](https://github.com/user-attachments/assets/15aa479b-086c-4d09-9f72-8141ecd5438b)
+
+
+### **Exiting the program and saving the file**:
+![image](https://github.com/user-attachments/assets/ca74476e-2d97-4254-b380-fe17e7e74fd7)
 
 ---
 
